@@ -47,3 +47,17 @@
     border-radius: 10px;
     color: white;
 }
+
+span{
+    display: block;
+    padding: 10px 20px;
+}
+
+span a{
+ color: #e96e50;
+ text-decoration: none;
+}
+
+span a:hover{
+    text-decoration: underline;
+}
