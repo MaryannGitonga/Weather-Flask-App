@@ -6,7 +6,9 @@
         <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css')}}">
     </head>
     <body>
-        <h2>Weather App Dashboard</h2>
+        <div class="weatherHeader">
+            <h2>Weather App Dashboard</h2>
+        </div>
         <form id="weatherForm" action="{{ url_for('weather_results')}}" method="post">
             <label for="weatherInput">Location City Name: </label>
             <input type="text" id="weatherInput" name="cityName">
