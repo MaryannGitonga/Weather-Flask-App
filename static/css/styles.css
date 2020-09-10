@@ -29,3 +29,12 @@ h2{
     background-color: #c1593f;
 }
 
+#weatherResults{
+    background-color: #e96e50;
+    padding: 20px;
+    display: inline-block;
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+    color: white;
+}
