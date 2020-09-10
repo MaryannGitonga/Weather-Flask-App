@@ -6,6 +6,10 @@
         <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
     </head>
     <body>
+        <div class="weatherHeader">
+            <h2>Weather App Dashboard</h2>
+        </div>
+        <span><a href="{{ url_for('weather_dashboard')}}">Go Back</a></span>
         <div id="weatherResults">
             <h3>Weather in {{ location }}</h3>
             <h2>{{ temp_celsius }}°C</h2>
