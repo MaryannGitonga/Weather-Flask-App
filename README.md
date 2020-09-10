@@ -19,4 +19,4 @@ User can search the name of the city of their choice. When submitted, the API re
 ![Image of Weather Results Page](https://github.com/MaryannGitonga/Weather-Flask-App/blob/master/images/weather_results.png)
 
 ## Things to Take Note
-When creating this application, the API seemed to have an issue with the temperatures. After conversion, temperatures of some cities seemed to be faulty if verified with data from other sources.
+When creating this application, the API seemed to have an issue with the temperatures. The temperatures of some cities seemed to be faulty if verified with data from other sources.
