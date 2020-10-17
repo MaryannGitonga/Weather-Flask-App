@@ -1,5 +1,5 @@
 # Weather-Flask-App
-Weather App created using Flask which craws the Open Weather Map API to read the weather reults of the city requested.
+Weather App created using Flask which crawls the Open Weather Map API to read the weather reults of the city requested.
 
 ## Motivation
 To refresh my knowledge on Flask and simple API integration
